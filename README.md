@@ -1,11 +1,12 @@
-# FullStack DNA
+# Builderz
 
-Standalone CODERZ FullStack DNA and curriculum page.
+Builderz company homepage and CODERZ FullStack DNA curriculum.
 
-- Site: https://builderz.tech/fullstack-dna/
-- Published content: `fullstack-dna/index.html`
+- Homepage: https://builderz.tech/
+- FullStack DNA: https://builderz.tech/fullstack-dna/
 - GitHub Pages source: `main`, repository root
 - Custom domain: `builderz.tech`
-- Root `index.html` redirects visitors to `/fullstack-dna/`.
 
-The page embeds its fonts and both reference PDFs. Update `fullstack-dna/index.html` to publish a new version. Keep `CNAME` and `.nojekyll` in the repository root.
+The homepage is a standalone HTML file with embedded images, fonts, styles, and scripts. Contact forms prepare downloadable or copyable local project briefs; they do not send messages.
+
+Update root `index.html` for the Builderz homepage. Update `fullstack-dna/index.html` for the curriculum. Keep `CNAME` and `.nojekyll` in the repository root.
